@@ -1,0 +1,23 @@
+E:\demodev\DXApplication1\bin\Debug\DXApplication1.exe.config
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.frmNhanVien.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+E:\demodev\DXApplication1\bin\Debug\DXApplication1.exe
+E:\demodev\DXApplication1\bin\Debug\DXApplication1.pdb
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.exe
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.pdb
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.frmKhachHang.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.frmSanPham.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.frmReportNV.resources
+E:\demodev\DXApplication1\obj\Debug\RdlCompile.cache
+E:\demodev\DXApplication1\obj\Debug\RdlCompile.compiled
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.frmReportKH.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.frmReportSP.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.Login.resources
+E:\demodev\DXApplication1\obj\Debug\DXApplication1.TableReport.resources
+E:\New folder\QLAoCuoi (1)\QLAoCuoi\DXApplication1\bin\Debug\DXApplication1.exe.config
+E:\New folder\QLAoCuoi (1)\QLAoCuoi\DXApplication1\obj\Debug\DXApplication1.exe
+E:\New folder\QLAoCuoi (1)\QLAoCuoi\DXApplication1\obj\Debug\DXApplication1.pdb
